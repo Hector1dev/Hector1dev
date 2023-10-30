@@ -1,7 +1,13 @@
 ## Olá ! eu sou Hector  👋
 #### Hi there! im Hector 👋
 
-##### Apaixonado por tecnologia, se expressando atraves programação.
+
+**Hector1dev/Hector1dev** 
+
+- 🔭 Eu sou um programdor front end ...
+- 🌱 Estudando javascript ...
+
+##### Apaixonado por tecnologia, se expressando atraves da programação.
 
 ### Tecnologias que eu uso no meu dia 
 
@@ -12,10 +18,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hector1dev&show_icons=true&theme=dark)
 
 
-**Hector1dev/Hector1dev** 
-
-Here are some ideas to get you started:
-
-- 🔭 Eu sou um programdor front end ...
-- 🌱 Estudando javascript ...
 
