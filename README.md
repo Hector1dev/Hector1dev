@@ -1,5 +1,10 @@
 ## Olá ! eu sou Hector  👋
 #### Hi there! im Hector 👋
+
+
+###Tecnologias que eu uso no meu dia
+
+
 <!--
 **Hector1dev/Hector1dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
