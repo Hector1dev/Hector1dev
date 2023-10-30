@@ -1,5 +1,5 @@
 ## Olá ! eu sou Hector  👋
-#### Hi there! im Hector 👋
+#### Hi there! I'm Hector 👋
 
 - 🔭 Eu sou um programdor front end ...
 - 🌱 Estudando javascript ...
