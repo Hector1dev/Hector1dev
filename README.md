@@ -2,7 +2,7 @@
 #### Hi there! im Hector 👋
 
 
-###Tecnologias que eu uso no meu dia
+### Tecnologias que eu uso no meu dia
 
 
 <!--
