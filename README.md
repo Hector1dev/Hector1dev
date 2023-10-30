@@ -1,9 +1,6 @@
 ## Olá ! eu sou Hector  👋
 #### Hi there! im Hector 👋
 
-
-**Hector1dev/Hector1dev** 
-
 - 🔭 Eu sou um programdor front end ...
 - 🌱 Estudando javascript ...
 
