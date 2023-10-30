@@ -2,7 +2,9 @@
 #### Hi there! im Hector 👋
 
 
-### Tecnologias que eu uso no meu dia
+### Tecnologias que eu uso no meu dia 
+
+[![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white/)]()
 
 
 <!--
